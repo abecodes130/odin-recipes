@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(196, 195, 187);
+    
+}
+
+.cutting {
+    text-align: center;
+}
+
+ul li {
+    padding-left: 5px;
+    list-style-position:inside
+    
+}
+
+ul {
+    padding-left: 5px;
+    list-style-position:inside
+    margin: 0;
+}
+
+.titletop {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+
+.title {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 50px;
+    margin: 50px
+}
+
+
+.intro {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+.burger {
+    text-align: center;
+    margin: 50px;
+}
+
+.Dish {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h4 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sauce,
+.burgerlists,
+.toppings,
+.cook,
+.assemble,
+.portion,
+.prep {
+    text-align: center;
+    margin: 20px;
+    list-style-position: inside;
+
+}
