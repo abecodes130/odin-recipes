@@ -19,7 +19,7 @@ ul {
     margin: 0;
 }
 
-.titletop {
+.header {
     text-align: center;
     font-weight: bold;
     font-size: 60px;
@@ -43,9 +43,9 @@ ul {
     text-align: center;
 }
 
-
-
-.burger {
+.burger,
+.ziti,
+.cookies {
     text-align: center;
     margin: 50px;
 }
@@ -76,9 +76,14 @@ h4 {
 .cook,
 .assemble,
 .portion,
-.prep {
+.prep,
+.zitilist,
+.steps,
+.cookielist {
     text-align: center;
-    margin: 20px;
+    margin: 15px;
     list-style-position: inside;
+    font-size: 22px;
+    line-height: 2.0;
 
 }
